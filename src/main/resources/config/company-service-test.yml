@@ -1,0 +1,9 @@
+server:
+  port: 8082
+
+test: default
+my:
+  property:
+    test: company-service
+
+description: "company-service"
